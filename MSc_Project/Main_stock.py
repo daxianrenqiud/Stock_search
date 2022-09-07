@@ -18,7 +18,6 @@ from multiple import *
 from index import *
 from urllib import request, parse
 from functools import partial
-from QCandyUi.CandyWindow import colorful
 from pyecharts.charts import Map
 from pyecharts import options as opts
 
