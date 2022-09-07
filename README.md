@@ -3,6 +3,9 @@
 
 Main_stock.py
 For visualizing stock information
+
+stock_interface.py
+Interface for querying ihdividual stock
 multiple.py
 Interface for querying multiple stocks
 index.py
